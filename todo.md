@@ -1,0 +1,3 @@
+- live speed adjustment
+- Manual movement
+- Better window resizing
